@@ -1,14 +1,15 @@
 # User Story Template
 
-**Title:**
-_As a [user role], I want [feature/goal], so that [reason]._
+**Admin User Story:**
+_As an admin, I want to log in to the portal with username and password, so that I can manage the platform securely._
 
 **Acceptance Criteria:**
-1. [Criteria 1]
-2. [Criteria 2]
-3. [Criteria 3]
+1. [The system validates that the username and password match a record in the Admin JPA Entity]
+2. [The user is redirected to the AdminDashboard upon successful authentication]
+3. [An error message is displayed for incorrect credentials, and access is denied]
 
-**Priority:** [High/Medium/Low]
-**Story Points:** [Estimated Effort in Points]
-**Notes:**
-- [Additional information or edge cases]
+**Priority:** [High]
+**Story Points:** [3]
+
+
+

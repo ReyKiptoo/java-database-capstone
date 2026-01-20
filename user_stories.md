@@ -1,8 +1,14 @@
-## Admin User Story
-As an Administrator using the AdminDashboard, I want to perform CRUD operations on Doctor and Patient JPA entities, So that I can maintain an accurate registry of all system users in the MySQL database.
+# User Story Template
 
-## Patient User Story
-As a Patient using the REST-based mobile module, I want to request an appointment and view my Prescription documents, So that I can manage my health schedule and access my medical history stored in MongoDB.
+**Title:**
+_As a [user role], I want [feature/goal], so that [reason]._
 
-## Doctor User Story. 
-As a Doctor using the DoctorDashboard, I want to view my daily schedule and submit new Prescription documents to the MongoDB repository, So that I can efficiently treat patients and ensure their records are updated in real-time.
+**Acceptance Criteria:**
+1. [Criteria 1]
+2. [Criteria 2]
+3. [Criteria 3]
+
+**Priority:** [High/Medium/Low]
+**Story Points:** [Estimated Effort in Points]
+**Notes:**
+- [Additional information or edge cases]
